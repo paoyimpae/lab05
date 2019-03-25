@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "722433203046",
+    "firebase_url": "https://flutter-project-paoyimpae.firebaseio.com",
+    "project_id": "flutter-project-paoyimpae",
+    "storage_bucket": "flutter-project-paoyimpae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722433203046:android:d8d8d29f45422426",
+        "android_client_info": {
+          "package_name": "com.example.flutterlab1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722433203046-di7bp35b9s00mbtaq4oni1u3eo15bupr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQsGs-sO8mngTZDEozVBMWZsykG86P5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
